@@ -2,5 +2,17 @@ prueba de repositorio
 prueba dosssss
 prueba ssss
 
+<<<<<<< HEAD
 prueba descaargas
 prueba dos
+=======
+actualizacion
+actualizacion 2
+
+descarga2ssss
+asadad
+
+adadadadaadadadadada
+
+
+adadadadaadadadadada
