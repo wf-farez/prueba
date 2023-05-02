@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 prueba de repositorio
 prueba dosssss
 prueba ssss
@@ -16,3 +17,6 @@ adadadadaadadadadada
 
 
 adadadadaadadadadada
+=======
+prueba 1 subida
+>>>>>>> farez
